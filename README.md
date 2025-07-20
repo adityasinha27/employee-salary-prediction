@@ -9,6 +9,7 @@ This project is a **Machine Learning–powered Streamlit web app** that predicts
 <img src="https://img.shields.io/badge/Streamlit%20App-Live-green?logo=streamlit" alt="Streamlit Badge"/>
 > 🧪 Run it locally or deploy to Streamlit Cloud
 
+https://aman245002-employee-salary-prediction-app-v59qvc.streamlit.app/
 ---
 
 ## 📊 Features
