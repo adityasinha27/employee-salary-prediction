@@ -100,9 +100,4 @@ With summary card + salary bar chart.
 
 ---
 
-## 👨‍💻 Developed by
 
-**Aman**  
-> 📬 Feel free to connect or suggest features!
-
----
