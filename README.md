@@ -4,12 +4,6 @@ This project is a **Machine Learning–powered Streamlit web app** that predicts
 
 ---
 
-## 🚀 Demo
-
-> 🧪 Run it locally or deploy to Streamlit Cloud
-
-https://aman245002-employee-salary-prediction-app-v59qvc.streamlit.app/
----
 
 ## 📊 Features
 
